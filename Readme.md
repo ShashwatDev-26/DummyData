@@ -1,3 +1,4 @@
+# Review with Chat Gpt
 You’ve clearly thought about structure, logic, and real-world usability here.
 
 Let’s do a  **professional-style review** , just like a senior ML engineer would give in a code review ✅
@@ -169,4 +170,3 @@ def independent_data(self) -> None:
 
 ---
 
-Would you like me to show you how this same class would look if refactored into **a polished, industry-style version** (PEP-8 naming, docstrings, method chaining, and safer encoding)?
